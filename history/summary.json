@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/ettorestark.com",
     "slug": "personal-page",
     "status": "up",
-    "uptime": "2.26%",
-    "uptimeDay": "2.26%",
-    "uptimeWeek": "2.26%",
-    "uptimeMonth": "2.26%",
-    "uptimeYear": "2.26%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 418,
     "timeDay": 418,
     "timeWeek": 418,
     "timeMonth": 418,
     "timeYear": 418,
-    "dailyMinutesDown": {
-      "2022-02-05": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
