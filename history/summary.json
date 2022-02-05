@@ -1,22 +1,22 @@
 [
   {
     "name": "Personal page",
-    "url": "https://www.ettorestark.com",
-    "icon": "https://favicons.githubusercontent.com/www.ettorestark.com",
+    "url": "https://ettorestark.com",
+    "icon": "https://favicons.githubusercontent.com/ettorestark.com",
     "slug": "personal-page",
-    "status": "down",
-    "uptime": "4.64%",
-    "uptimeDay": "4.64%",
-    "uptimeWeek": "4.64%",
-    "uptimeMonth": "4.64%",
-    "uptimeYear": "4.64%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.26%",
+    "uptimeDay": "2.26%",
+    "uptimeWeek": "2.26%",
+    "uptimeMonth": "2.26%",
+    "uptimeYear": "2.26%",
+    "time": 418,
+    "timeDay": 418,
+    "timeWeek": 418,
+    "timeMonth": 418,
+    "timeYear": 418,
     "dailyMinutesDown": {
-      "2022-02-05": 0
+      "2022-02-05": 1
     }
   }
 ]
